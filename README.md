@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently student <br>🤝 I’m looking for work<br>🌱 I’m still learner<br>⚡ market updated
+<img align="right" alt="coding" width="400" src="https://public-images.interaction-design.org/literature/articles/materials/lycJO9uI7QCtSbHdIDNUV8gwYSpYVnR43xWhuuYH.gif">
 
 
 ## 🌐 Socials:
